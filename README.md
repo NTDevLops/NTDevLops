@@ -1,5 +1,5 @@
 # 💫 About Me:
-Ashish Sharma
+NTDevLops
 
 
 # 💻 Tech Stack:
